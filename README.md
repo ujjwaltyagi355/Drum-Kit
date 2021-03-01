@@ -3,13 +3,19 @@
 * We can either `click` on the respective button or use the `keyboard key` instead to play the sound of the respective instrument.<br />
 * Each press is visualised with `button press animation` implemeted through `JavaScript`.
 
+<br />
+
 ## Live Project
 * <h4>You can Play around with the project at:</h4>
      https://ujjwaltyagi355.github.io/Drum-Kit/
 
+<br />
+
 ## UI Design
 
 ![image](https://user-images.githubusercontent.com/61249902/109501975-62821800-7abe-11eb-996b-9e4b663d0244.png)
+
+<br />
 
 ## Code Base
 * The whole project has been coded with `HTML`, `CSS` and `JavaScript`.
