@@ -19,8 +19,8 @@
 
 ## Code Base
 * The whole project has been coded with `HTML`, `CSS` and `JavaScript`.
-* The button press animation, the sound played at each button press has been coded using JavaScript.
-* The UI has been designed using HTML and CSS.
+* The `button press animation`, the `sound` played at each button press has been coded using `JavaScript`.
+* The UI has been designed using `HTML` and `CSS`.
 <br />
 <br />
 <h3 align="center"> I hope you have fun playing the beats...❤️</h3>
